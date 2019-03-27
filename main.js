@@ -3,23 +3,12 @@ function clicked() {
 	var user = document.getElementById('username');
 	var pass = document.getElementById('password');
 	
-	var people = [
-	{
-		username: "sam",
-		password: "codify"
-	},
-	{
-		username: "matt",
-		password: "academy"
-	},
-	{
-		username: "chris",
-		password: "forever"
-	}
-
-	if(user == people) {
+	var coruser = "test";
+	var corpass = "123";
 	
-		if(password == people) {
+	if(user.value == coruser) {
+	
+		if(pass.value == corpass) {
 		
 			window.alert("You are logged in as " + user.value);
 			window.open("https://apple.com");
