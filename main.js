@@ -22,7 +22,7 @@ function clicked() {
 		if(password == people) {
 		
 			window.alert("You are logged in as " + user.value);
-			window.open("http://www.nicksdesk.com");
+			window.open("https://apple.com");
 		
 		} else {
 		
