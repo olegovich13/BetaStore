@@ -1,0 +1,369 @@
+0�۳	*�H����ۤ0�۠10	`�He0���	*�H�������н<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>cs</key>
+		<string>Profil protokolování CloudKitu pro ladění generuje soubory, které společnosti Apple umožní řešit problémy s vaším zařízením a pomůžou jí zlepšovat produkty a služby. Vytvořené soubory můžou obsahovat některé vaše osobní údaje včetně úplných cest k vašim uloženým dokumentům, metadat fotografií, vašeho uživatelského jména pro iCloud a názvů počítačů registrovaných ve vašem účtu na iCloudu. Profil po 14 dnech vyprší. Navíc si soubory protokolu můžete ve svém počítači před odesláním společnosti Apple zkontrolovat.
+
+Když je Profil nainstalovaný, můžete protokolování kdykoli zapnout a vypnout. Na iOS zařízení nebo Apple TV protokolování vypnete tak, že otevřete Nastavení, klepnete na Obecné a pak na Profily. Na Macu protokolování vypnete tak, že zvolíte Předvolby systému a kliknete na panel předvoleb Profily. Pokud chcete protokolování vypnout na Apple Watch, otevřete na iPhonu aplikaci Watch, klepněte na Obecné a potom na Profily.
+
+Pak vyberte Protokolování CloudKitu pro ladění, klepněte na Odstranit profil a restartujte zařízení.
+
+Zapnutím tohoto diagnostického nástroje a posláním kopií vytvořených souborů společnosti Apple vyjadřujete souhlas s tím, aby Apple obsah těchto souborů použil v souladu se svými zásadami ochrany soukromí (http://www.apple.com/legal/privacy/cz). Důvěrný profil Apple. Nedistribuovat. Není určeno k použití nebo zveřejnění bez svolení společnosti Apple. Copyright © 2018 Apple Inc. Všechna práva vyhrazena</string>
+		<key>da</key>
+		<string>Beskrivelsen til logning af CloudKit-fejlfinding opretter arkiver, der giver Apple mulighed for at foretage fejlfinding af problemer med din enhed, og hjælper dermed Apple med at forbedre sine produkter og tjenester. De oprettede arkiver kan indeholde nogle af dine personlige oplysninger, herunder hele stinavne til dine opbevarede dokumenter, metadata til fotos, dit iCloud-brugernavn og navnene på de computere, der er registreret med din iCloud-konto. Beskrivelsen udløber efter 14 dage. Du kan også gennemse logarkiverne på din computer, før du sender dem til Apple.
+
+Du kan når som helst slå logning til og fra, mens beskrivelsen er installeret. Hvis du vil slå logning fra på din iOS-enhed eller dit Apple TV, skal du åbne Indstillinger, trykke på "Generelt" og trykke på "Beskrivelser". Hvis du vil slå logning til på din Mac, skal du vælge  &gt; Systemindstillinger og klikke på Vinduet Beskrivelsesindstillinger. Hvis du vil slå logning til på dit Apple Watch, skal du starte Apple Watch-appen på din iPhone, trykke på "Generelt" og derefter trykke på "Beskrivelser"
+
+Derefter skal du vælge "Logning af CloudKit-fejlfinding", trykke på "Fjern beskrivelse" og genstarte enheden.
+
+Ved at aktivere dette diagnosticeringsværktøj og sende en kopi af de oprettede arkiver til Apple accepterer du, at Apple bruger indholdet af nævnte arkiver i henhold til anonymitetspolitikken (http://www.apple.com/legal/privacy/dk). Fortrolig Apple-beskrivelse. Må ikke distribueres. Må ikke bruges eller gøres tilgængelig uden Apples tilladelse. Copyright © 2018, Apple Inc. Alle rettigheder forbeholdes</string>
+		<key>de</key>
+		<string>Das Profil "CloudKit Debug Logging" (CloudKit-Debug-Protokollierung) generiert Dateien, mit denen Apple Probleme mit Ihrem Gerät beheben und Apple-Produkte und -Services weiter verbessern kann. Die generierten Dateien können einige personenbezogene Daten enthalten, wie die vollständigen Verzeichnisnamen Ihrer gespeicherten Dokumente, Fotometadaten, Ihren iCloud-Benutzernamen und die unter Ihrem iCloud Account registrierten Computer. Das Profil läuft nach 14 Tagen ab. Außerdem können Sie die Protokolldateien auf Ihrem Computer anzeigen, bevor Sie sie an Apple senden.
+
+Sie können die Protokollerstellung, während das Profil installiert ist, jederzeit aktivieren und deaktivieren. Um die Protokollerstellung auf Ihrem iOS-Gerät oder Apple TV zu deaktivieren, wählen Sie "Einstellungen", und tippen Sie auf "Allgemein" &gt; "Profile". Um die Protokollerstellung auf Ihrem Mac zu deaktivieren, wählen Sie  &gt; Systemeinstellungen und klicken Sie auf die Profil-Systemeinstellungen. Um die Protokollerstellung auf Ihrer Apple Watch zu deaktivieren, starten Sie die Apple Watch-App auf dem iPhone, und wählen Sie "Allgemein" &gt; "Profile".
+
+Wählen Sie dann "CloudKit Debug Logging" (CloudKit-Debug-Protokollierung) &gt; "Entfernen", und starten Sie das Gerät neu.
+
+Indem Sie dieses Diagnosetool aktivieren und eine Kopie der generierten Dateien an Apple senden, erklären Sie sich damit einverstanden, dass Apple den Inhalt dieser Dateien entsprechend seiner Datenschutzrichtlinie verwenden darf (http://www.apple.com/legal/privacy/de/). Vertrauliches Profil von Apple. Nicht zur Weitergabe bestimmt. Darf nicht ohne Genehmigung durch Apple verwendet oder offengelegt werden. Copyright © 2018 Apple Inc. Alle Rechte vorbehalten</string>
+		<key>default</key>
+		<string>The CloudKit Debug Logging Profile generates files that allow Apple to troubleshoot issues with your device and help Apple to improve its products and services. The generated files may contain some of your personal information, including full path names of your stored documents, photo metadata, your iCloud username, and the names of computers registered with your iCloud account.  The profile will expire after 14 days. You will also be able to review the log files on your computer prior to sending them to Apple.
+
+You will be able to turn on and off logging at any time while the Profile is installed. To turn off logging on your iOS device or Apple TV, open Settings, tap "General", and tap "Profiles". To turn off logging on your Mac, choose  &gt; System Preferences, and click on the Profiles Preference Pane. To turn off logging on your Apple Watch, launch the Apple Watch app on your iPhone, tap "General", then tap "Profiles"
+
+Then select "CloudKit Debug Logging", tap "Remove Profile," and restart the device.
+
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple’s use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy). Apple Confidential Profile. Do not distribute. Not to be used or disclosed without permission from Apple. Copyright © 2018, Apple Inc. All rights reserved.</string>
+		<key>el</key>
+		<string>Το προφίλ «CloudKit Debug Logging» δημιουργεί αρχεία που επιτρέπουν στην Apple να αντιμετωπίσει προβλήματα με τη συσκευή σας και τη βοηθούν να βελτιώσει τα προϊόντα και τις υπηρεσίες της. Τα αρχεία που δημιουργούνται ενδέχεται να περιέχουν ορισμένες προσωπικές πληροφορίες σας, όπως τα πλήρη ονόματα διαδρομών των αποθηκευμένων εγγράφων σας, τα μετα-δεδομένα φωτογραφιών, το όνομα χρήστη iCloud σας και τα ονόματα των υπολογιστών που έχουν καταχωριστεί στον λογαριασμό σας iCloud. Το προφίλ θα λήξει μετά από 14 ημέρες. Μπορείτε επίσης να ελέγξετε τα αρχεία καταγραφής στον υπολογιστή σας πριν την αποστολή τους στην Apple.
+
+Για όσο διάστημα είναι εγκατεστημένο το προφίλ, μπορείτε να ενεργοποιήσετε και να απενεργοποιήσετε την καταγραφή ανά πάσα στιγμή. Για απενεργοποιήσετε την καταγραφή σε συσκευή iOS ή σε Apple TV, ανοίξτε την επιλογή «Ρυθμίσεις», πατήστε «Γενικά» και, στη συνέχεια, πατήστε «Προφίλ». Για απενεργοποιήσετε την καταγραφή σε Mac, επιλέξτε  &gt; Προτιμήσεις συστήματος και κάντε κλικ στην επιλογή «Τμήμα προτιμήσεων προφίλ». Για απενεργοποιήσετε την καταγραφή σε Apple Watch, ανοίξτε την εφαρμογή του Apple Watch στο iPhone, πατήστε την επιλογή «Γενικά» και, στη συνέχεια, πατήστε «Προφίλ».
+
+Έπειτα, επιλέξτε το στοιχείο «CloudKit Debug Logging», πατήστε την επιλογή «Αφαίρεση προφίλ» και επανεκκινήστε τη συσκευή.
+
+Με την ενεργοποίηση αυτού του διαγνωστικού εργαλείου και με την αποστολή ενός αντίγραφου των αρχείων που δημιουργήθηκαν στην Apple, συμφωνείτε ότι η Apple μπορεί να χρησιμοποιεί το περιεχόμενο αυτών των αρχείων σύμφωνα με την πολιτική απορρήτου της (https://www.apple.com/legal/privacy/gr/). Εμπιστευτικό προφίλ της Apple. Να μην διανεμηθεί. Δεν επιτρέπεται η χρήση ή η κοινοποίηση χωρίς άδεια από την Apple. Πνευματικά δικαιώματα © 2018 Apple Inc. Με επιφύλαξη κάθε δικαιώματος</string>
+		<key>es</key>
+		<string>El perfil CloudKit Debug Logging genera una serie de archivos que permiten a Apple solucionar los problemas de tu dispositivo y mejorar sus productos y servicios. Los archivos generados pueden incluir datos personales, como las rutas completas de tus documentos guardados, los metadatos de las fotos, tu nombre de usuario de iCloud y los nombres de los ordenadores registrados en tu cuenta de iCloud. El perfil caducará pasados 14 días. También podrás revisar los archivos de registro en el ordenador antes de enviarlos a Apple.
+
+Podrás activar y desactivar el registro en cualquier momento siempre mientras esté instalado el perfil. Para desactivar el registro en un dispositivo iOS o el Apple TV, abre Ajustes, pulsa General y luego Perfiles. Para desactivar el registro en el Mac, selecciona Preferencias del Sistema y haz clic en el panel de preferencias de perfiles. Para desactivar el registro en el Apple Watch, inicia la app Watch en el iPhone, pulsa General y luego Perfiles.
+
+A continuación, selecciona CloudKit Debug Logging y reinicia el dispositivo.
+
+Al activar esta herramienta de diagnóstico y enviar una copia de los archivos generados a Apple, aceptas que Apple utilice el contenido de dichos archivos de conformidad con su política de privacidad (http://www.apple.com/legal/privacy/es). Perfil confidencial de Apple. No distribuir. No se debe usar ni divulgar sin el permiso de Apple. Copyright © 2018, Apple Inc. Todos los derechos reservados</string>
+		<key>es-MX</key>
+		<string>En el perfil de registros de depuración de CloudKit, se generan archivos que permiten a Apple resolver problemas que presentan los dispositivos y que ayudan a Apple a mejorar sus productos y servicios. Es posible que los archivos generados contengan algunos datos personales, incluidos los nombres completos de las rutas de acceso de los documentos almacenados, los metadatos de las fotos, tu nombre de usuario de iCloud y los nombres de las computadoras registradas en tu cuenta de iCloud. El perfil vencerá luego de 14 días. También podrás revisar los archivos de registro en tu computadora antes de enviarlos a Apple.
+
+Podrás activar o desactivar la generación de registros en cualquier momento siempre que el perfil esté instalado. Para desactivar esta generación desde un dispositivo iOS o Apple TV, abre Configuración, toca General y, luego, Perfiles. Para desactivarla desde una Mac, selecciona Preferencias del Sistema y haz clic en el panel de preferencias de Perfiles. Para desactivarla desde un Apple Watch, abre la app Apple Watch en el iPhone, toca General y, luego, Perfiles.
+
+A continuación, selecciona la opción de registros de depuración de CloudKit, toca Eliminar perfil y reinicia el dispositivo.
+
+Al activar esta herramienta de diagnóstico y enviar una copia de los archivos generados a Apple, aceptas que Apple utilice el contenido de dichos archivos según su política de privacidad (https://www.apple.com/legal/privacy/es-la/). Perfil confidencial de Apple. No divulgar. No se debe utilizar ni divulgar sin el permiso de Apple. Copyright © 2018 Apple Inc. Todos los derechos reservados.</string>
+		<key>fi</key>
+		<string>CloudKitin vianmäärityskirjaamisprofiili luo tiedostoja, joiden avulla Apple voi määrittää laitteessasi olevia vikoja ja kehittää tuotteitaan ja palvelujaan. Luodut tiedostot voivat sisältää henkilökohtaisia tietojasi, kuten tallennettujen tiedostojen polut kokonaisuudessaan, valokuvien metatiedot, iCloud-käyttäjätunnuksesi ja iCloud-tiliisi rekisteröityjen tietokoneiden nimet. Profiili on voimassa 14 päivää. Voit myös tarkastella lokitiedostoja tietokoneella ennen kuin lähetät ne Applelle.
+
+Voit ottaa kirjaamisen käyttöön ja poistaa sen käytöstä milloin tahansa, kun profiili on asennettuna. Jos haluat poistaa kirjaamisen käytöstä iOS-laitteessa tai Apple TV:ssä, avaa Asetukset ja napauta Yleiset ja sitten Profiilit. Jos haluat poistaa kirjaamisen käytöstä Macissa, valitse  &gt; Järjestelmäasetukset ja klikkaa Profiilit-asetuspaneelia. Jos haluat poistaa kirjaamisen käytöstä Apple Watchissa, avaa Apple Watch -appi iPhonessa, napauta Yleiset ja sitten Profiilit.
+
+Valitse sitten CloudKitin vianmäärityksen kirjaaminen, napauta Poista profiili ja käynnistä laite sitten uudelleen.
+
+Jos otat diagnostiikkatyökalun käyttöön ja lähetät luoduista tiedostoista kopion Applelle, annat Applelle luvan käyttää näiden tiedostojen sisältöä tietosuojakäytäntönsä mukaisesti (http://www.apple.com/legal/privacy/fi/). Applen luottamuksellinen profiili. Älä jakele. Käyttöön ja jakeluun on pyydettävä lupa Applelta. Copyright © 2018, Apple Inc. Kaikki oikeudet pidätetään</string>
+		<key>fr</key>
+		<string>Le profil Journalisation de débogage CloudKit génère des fichiers qui permettent à Apple de résoudre des problèmes liés à votre appareil et aident Apple à améliorer ses produits et services. Les fichiers générés peuvent contenir des informations personnelles vous concernant, telles que les noms des chemins d’accès de vos documents stockés, les métadonnées de vos photos, votre nom d’utilisateur iCloud et les noms des ordinateurs sur lesquels votre compte iCloud est enregistré. Le profil expire au bout de 14 jours. Vous pourrez consulter les fichiers journaux sur votre ordinateur avant de les envoyer à Apple.
+
+Vous pourrez activer et désactiver la journalisation à tout moment pendant que le profil est installé. Pour désactiver la journalisation sur votre appareil iOS ou votre Apple TV, ouvrez Réglages, touchez « Général », puis « Profils ». Pour désactiver la journalisation sur votre Mac, sélectionnez  &gt; Préférences Système et cliquez sur la sous-fenêtre des préférences Profils. Pour désactiver la journalisation sur votre Apple Watch, lancez l’app Apple Watch sur votre iPhone, touchez « Général », puis « Profils ».
+
+Sélectionnez ensuite « Journalisation de débogage CloudKit », touchez « Supprimer le profil » et redémarrez l’appareil.
+
+En activant cet outil de diagnostic et en envoyant une copie des fichiers générés à Apple, vous acceptez qu’Apple utilise le contenu de ces fichiers conformément à son engagement de confidentialité (http://www.apple.com/legal/privacy/fr). Profil Confidentiel Apple. Ne pas diffuser. Ne pas utiliser ou divulguer ces informations sans l’autorisation d’Apple. Copyright © 2018, Apple Inc. Tous droits réservés</string>
+		<key>hr</key>
+		<string>Profil CloudKit Debug Logging generira datoteke koje Appleu omogućuju otklanjanje poteškoća s uređajem te pridonose poboljšanju Appleovih proizvoda i servisa. Generirane datoteke mogu sadržavati određene osobne podatke, uključujući pune nazive staza spremljenih dokumenata, metapodatke fotografija, korisničko ime za iCloud i nazive računala registriranih za iCloud račun. Profil istječe za 14 dana. Datoteke zapisnika moći ćete prije slanja Appleu i pregledati na računalu.
+
+Nakon instalacije profila stvaranje zapisnika možete isključiti u bilo kojem trenutku. Da biste isključili stvaranje zapisnika na iOS uređaju ili Apple TV-u, otvorite Postavke, dodirnite Općenito, a zatim Profili. Da biste isključili stvaranje zapisnika na Mac računalu, odaberite  &gt; Postavke sustava te kliknite okno s postavkama profila. Da biste isključili stvaranje zapisnika na Apple Watch uređaju, na iPhone uređaju pokrenite aplikaciju za Apple Watch, dodirnite Općenito, a zatim Profili.
+
+Potom odaberite CloudKit Debug Logging, dodirnite Ukloni profil te ponovno pokrenite uređaj.
+
+Kada omogućite taj dijagnostički alat i slanje kopije generiranih datoteka Appleu, pristajete na to da Apple koristi njihov sadržaj u skladu sa svojim pravilima o zaštiti privatnosti (http://www.apple.com/legal/privacy/hr/). Profil Apple povjerljivo. Nije za distribuciju. Bez Appleova pristanka nije dopuštena upotreba ni otkrivanje povjerljivih informacija. Autorska prava © 2018., Apple Inc. Sva prava pridržana</string>
+		<key>hu</key>
+		<string>A CloudKit hibanaplózási profil által generált fájlok segítségével az Apple el tudja végezni készülékének hibaelhárítását, és a profil révén az Apple tökéletesíteni tudja termékeit és szolgáltatásait. A generált fájlok tartalmazhatják az Ön személyes adatait, például a tárolt dokumentumok teljes elérési útvonalát, a fényképek metaadatait, iCloud-felhasználónevét, valamint az iCloud-fiókjában regisztrált számítógépek neveit. A profil 14 napon belül lejár. A naplófájlokat továbbá megtekintheti számítógépén az Apple-nek való elküldésük előtt.
+
+Bármikor be- és kikapcsolhatja a naplózást a profil telepítése közben. Ha iOS-készüléken vagy Apple TV-n ki szeretné kapcsolni a naplózást, nyissa meg a Beállítások alkalmazást, és koppintson az „Általános”, majd a „Profilok” elemre. Ha Macen szeretné kikapcsolni a naplózást, válassza ki a  &gt; Rendszerbeállítások menüpontot, majd kattintson a Profilok beállítási ablaktáblára. Ha Apple Watchon szeretné kikapcsolni a naplózást, indítsa el az Apple Watch alkalmazást iPhone készülékén, és koppintson az „Általános”, majd a „Profilok” elemre.
+
+Ezután válassza ki a „CloudKit hibakeresési naplózás” elemet, koppintson a „Profil eltávolítása” elemre, majd indítsa újra a készüléket.
+
+A diagnosztikai eszköz használatának engedélyezésével és a generált fájlok Apple-nek való elküldésével Ön beleegyezik, hogy az Apple az adatvédelmi szabályzata (http://www.apple.com/legal/privacy/hu) szerint használja fel a fájlokat. Bizalmas Apple-profil. Terjesztése tilos. Nem használható fel és nem hozható nyilvánosságra az Apple engedélye nélkül. Copyright © 2018 Apple Inc. Minden jog fenntartva</string>
+		<key>id</key>
+		<string>Profil Pencatatan Debug CloudKit menghasilkan file yang memungkinkan Apple menyelesaikan masalah perangkat Anda dan membantu Apple meningkatkan produk dan layanannya. File yang dihasilkan dapat berisi beberapa informasi pribadi, termasuk nama jalur lengkap dari dokumen yang disimpan, metadata foto, nama pengguna iCloud Anda, dan nama komputer yang didaftarkan dengan akun iCloud Anda. Profil ini akan kedaluwarsa setelah 14 hari. Anda juga dapat meninjau file log pada komputer sebelum mengirimkannya ke Apple.
+
+Anda akan dapat menyalakan dan mematikan pencatatan kapan saja jika Profil telah diinstal. Untuk mematikan pencatatan di perangkat iOS atau Apple TV, buka Pengaturan, ketuk "Umum", dan ketuk "Profil". Untuk mematikan pencatatan di Mac, pilih  &gt; Preferensi Sistem, dan klik pada Panel Preferensi Profil. Untuk mematikan pencatatan di Apple Watch, jalankan app Apple Watch di iPhone, ketuk "Umum", lalu ketuk "Profil"
+
+Lalu pilih "Pencatatan Debug CloudKit", ketuk "Hapus Profil," dan mulai ulang perangkat.
+
+Dengan mengaktifkan alat diagnostik ini dan mengirimkan salinan file yang dihasilkan kepada Apple, Anda menyetujui penggunaan Apple atas konten file tersebut sesuai dengan kebijakan privasinya (http://www.apple.com/legal/privacy/id). Profil Rahasia Apple. Jangan disebarluaskan. Tidak untuk digunakan atau diungkapkan tanpa izin dari Apple. Hak cipta © 2018, Apple Inc. Semua hak dilindungi undang-undang</string>
+		<key>it</key>
+		<string>Il profilo Registrazione debug CloudKit genera file che consentono a Apple di risolvere i problemi relativi al tuo dispositivo e migliorare i propri prodotti e servizi. I file generati possono contenere alcune tue informazioni personali, compresi i nomi completi dei percorsi dei tuoi documenti archiviati, i metadati delle foto, il tuo nome utente iCloud e i nomi dei computer registrati con il tuo account iCloud. Il profilo scade dopo 14 giorni. Puoi anche esaminare i resoconti sul tuo computer prima di inviarli a Apple.
+
+Mentre il profilo è installato, puoi attivare e disattivare la registrazione in qualsiasi momento. Per disattivare la registrazione sul tuo dispositivo iOS o sull'Apple TV, apri Impostazioni, tocca “Generali”, quindi tocca “Profili”. Per disattivare la registrazione sul Mac, scegli  &gt; Preferenze di Sistema, quindi fai clic sul pannello delle preferenze Profili. Per disattivare la registrazione sull'Apple Watch, avvia l'app Apple Watch sull'iPhone, tocca “Generali”, quindi tocca “Profili”
+
+Quindi seleziona “Registrazione debug CloudKit”, tocca “Rimuovi profilo” e riavvia il dispositivo.
+
+Abilitando questo strumento di diagnostica e inviando una copia dei file generati a Apple, acconsenti all'uso da parte di Apple di tali file in conformità alla politica sulla privacy (https://www.apple.com/legal/privacy/it/). Profilo riservato Apple. Vietata la distribuzione. Vietato utilizzare o divulgare senza l'autorizzazione di Apple. Copyright © 2018, Apple Inc. Tutti i diritti riservati</string>
+		<key>ja</key>
+		<string>CloudKit デバッグログプロファイルを使用すると、ファイルが生成されます。Apple はこのファイルをもとに、お客様のデバイスに関する問題のトラブルシューティングを行って、製品やサービス改善のために活用します。生成されるファイルには、保存されている書類のフルパス名、写真のメタデータ、お客様の iCloud ユーザ名、お客様の iCloud アカウントに登録されたコンピュータ名など、お客様の個人情報が含まれる場合があります。プロファイルは 14 日後に有効期限切れとなります。また、Apple に送信する前にコンピュータのログファイルの詳細を確認できます。
+
+プロファイルをインストールした後は、いつでもログ収集を有効／無効にできます。iOS デバイスや Apple TV でログ収集を無効にするには、「設定」を開き、「一般」＞「プロファイル」の順にタップします。Mac でログ収集を無効にするには、 &gt;「システム環境設定」の順に選択し、「プロファイル」パネルをクリックします。Apple Watch でログ収集を無効にするには、iPhone で Apple Watch App を開き、「一般」＞「プロファイル」の順にタップします。
+
+その後、「CloudKit デバッグログ」を選択して「プロファイルを削除」をタップしてから、デバイスを再起動します。
+
+この診断ツールを有効にし、生成されたファイルのコピーを Apple に送信することにより、お客様は、Apple がプライバシーポリシー (http://www.apple.com/legal/privacy/jp/) に従って上記ファイルの内容を利用することに同意することになります。Apple 社外秘プロファイル。配布禁止。Apple の許可なく使用や開示をすることはできません。Copyright © 2018, Apple Inc. All rights reserved</string>
+		<key>ko</key>
+		<string>CloudKit 디버그 로깅 프로파일에서는 Apple이 사용자의 기기에서 발생한 문제를 해결하고 Apple의 제품 및 서비스를 개선하는 데 유용한 파일이 생성됩니다. 이렇게 생성된 파일에는 저장된 문서의 전체 경로 이름, 사진 메타데이터, iCloud 사용자 이름 및 iCloud 계정에 등록된 컴퓨터의 이름을 비롯하여 일부 개인 정보가 포함될 수 있습니다. 프로파일은 14일 후에 만료됩니다. 또한 로그 파일을 Apple에 보내기 전에 컴퓨터에서 검토할 수도 있습니다.
+
+프로파일이 설치되어 있는 동안 언제든지 로그 기록을 켜거나 끌 수 있습니다. iOS 기기 또는 Apple TV에서 로그 기록을 끄려면 설정을 연 다음 '일반', '프로파일'을 차례로 탭합니다. Mac에서 로그 기록을 끄려면  &gt; 시스템 환경설정을 선택한 후 '프로파일' 환경설정 패널을 클릭합니다. Apple Watch에서 로그 기록을 끄려면 iPhone에서 Apple Watch 앱을 실행한 후 '일반', '프로파일'을 차례로 탭합니다.
+
+그런 다음 'CloudKit Debug Logging'을 선택하고 '프로파일 제거'를 탭한 후 기기를 재시동합니다.
+
+이 진단 도구를 활성화하고 생성된 파일의 복사본을 Apple로 보내면, 귀하는 Apple이 개인정보 처리방침(http://www.apple.com/legal/privacy/kr/)에 따라 해당 파일의 콘텐츠를 사용하는 것에 동의하는 것입니다. Apple 대외비 프로파일. 배포 금지. Apple의 허가 없이 사용되거나 공개될 수 없음. Copyright © 2018, Apple Inc. 모든 권리 보유</string>
+		<key>nb</key>
+		<string>Profilen for feilsøkingslogging i CloudKit oppretter filer som Apple bruker til å løse problemer med enheten din, og til å forbedre Apples produkter og tjenester. Filene som opprettes, kan inneholde visse personopplysninger, blant annet fullt banenavn for lagrede dokumenter, metadata om bilder, iCloud-brukernavnet ditt og navnet på datamaskiner som er registrert på iCloud-kontoen din. Profilen utløper etter 14 dager. Du har også mulighet til å gjennomgå loggfilene på datamaskinen før du sender dem til Apple.
+
+Du kan når som helst slå loggføring av eller på mens profilen er installert. Hvis du vil slå av loggføring på iOS-enheten eller en Apple TV, åpner du Innstillinger, trykker på «Generelt» og deretter på «Profiler». Hvis du vil slå av loggføring på Mac, velger du  &gt; Systemvalg og klikker på Profilvalg-panelet. Hvis du vil slå av loggføring på Apple Watch, åpner du Apple Watch-appen på iPhone, trykker på «Generelt» og deretter på «Profiler»
+
+Deretter velger du «CloudKit-feilsøkingslogging», trykker på «Fjern profil» og starter enheten på nytt.
+
+Når du aktiverer diagnostikkverktøyet og sender Apple en kopi av filene som opprettes, samtykker du i at Apple kan bruke innholdet i slike filer i henhold til Apples retningslinjer for personvern (https://www.apple.com/legal/privacy/no). Konfidensiell Apple-profil. Ikke distribuer denne profilen. Må ikke brukes eller deles uten tillatelse fra Apple. Copyright © 2018 Apple Inc. Med enerett</string>
+		<key>nl</key>
+		<string>Het profiel 'Foutopsporing CloudKit bijhouden' genereert bestanden waarmee Apple problemen met uw apparaat kan oplossen en waarmee Apple zijn producten en services kan verbeteren. De gegenereerde bestanden bevatten mogelijk persoonlijke informatie, zoals volledige padnamen van uw opgeslagen documenten, metagegevens van foto’s, uw iCloud-gebruikersnaam en de namen van computers die bij uw iCloud-account zijn geregistreerd. Het profiel verloopt na veertien dagen. U kunt de logbestanden ook bekijken op uw computer voordat u ze naar Apple verzendt.
+
+U kunt het bijhouden van logbestanden op elk moment in- en uitschakelen terwijl het profiel is geïnstalleerd. Als u het bijhouden van logbestanden wilt uitschakelen op uw iOS-apparaat of Apple TV, opent u 'Instellingen' en tikt u op 'Algemeen' en daarna op 'Profielen'. Als u het bijhouden van logbestanden wilt uitschakelen op uw Mac, kiest u  &gt; 'Systeemvoorkeuren' en klikt u op het voorkeurenpaneel 'Profielen'. Als u het bijhouden van logbestanden wilt uitschakelen op uw Apple Watch, opent u de Apple Watch-app op uw iPhone en tikt u op 'Algemeen' en daarna op 'Profielen'.
+
+Selecteer vervolgens 'Foutopsporing CloudKit bijhouden', tik op 'Verwijder profiel' en start het apparaat opnieuw op.
+
+Als u deze diagnostische tool inschakelt en een kopie van de gegenereerde bestanden naar Apple verzendt, gaat u ermee akkoord dat Apple de inhoud van dergelijke bestanden gebruikt in overeenstemming met het privacybeleid (http://www.apple.com/legal/privacy/nl). Vertrouwelijk profiel van Apple. Niet distribueren. Niet bedoeld voor gebruik of bekendmaking zonder toestemming van Apple. Copyright © 2018 Apple Inc. Alle rechten voorbehouden</string>
+		<key>pl</key>
+		<string>Profil CloudKit Debug Logging generuje pliki, które umożliwiają firmie Apple rozwiązywanie problemów z Twoim urządzeniem i pomagają jej w ulepszaniu oferowanych przez nią produktów i usług. Wygenerowane pliki mogą zawierać niektóre z Twoich danych osobowych, w tym pełne nazwy ścieżek do zachowanych dokumentów, metadane zdjęć, Twoją nazwę użytkownika w usłudze iCloud oraz nazwy komputerów zarejestrowanych na Twoim koncie usługi iCloud.
+
+Po zainstalowaniu profilu możesz w dowolnej chwili włączać i wyłączać rejestrowanie, a także przeglądać pliki dziennika na komputerze przed wysłaniem ich do firmy Apple. Aby wyłączyć rejestrowanie, otwórz Ustawienia, stuknij opcję Ogólne, stuknij opcję Profile, stuknij opcję CloudKit Debug Logging, a następnie stuknij opcję Usuń.
+
+Włączając to narzędzie diagnostyczne i wysyłając kopię wygenerowanych plików do firmy Apple, zgadzasz się na wykorzystanie zawartości tych plików przez firmę Apple zgodnie z przyjętymi przez nią zasadami ochrony prywatności (http://www.apple.com/pl/legal/privacy).</string>
+		<key>pt</key>
+		<string>O Perfil de registo do depurador do CloudKit gera ficheiros que permitem à Apple avançar com a resolução de problemas com o seu dispositivo e ajudam a Apple a melhorar os produtos e serviços. Os ficheiros gerados podem conter as suas informações pessoais, incluindo os nomes completos da localização dos seus documentos, os metadados das fotografias, o seu nome de utilizador do iCloud e os nomes dos computadores registados na sua conta iCloud. O perfil irá expirar após 14 dias. Também é possível rever os ficheiros de registo no seu computador antes de os enviar para a Apple.
+
+Poderá ativar e desativar o registo em qualquer altura enquanto o Perfil é instalado. Para desativar o registo no seu dispositivo iOS ou Apple TV, abra as Definições, toque em "Geral" e toque em "Perfis" Para desativar o registo no seu Mac, selecione  &gt; Preferências do sistema e clique no painel Preferências de perfis. Para desativar o registo no seu Apple Watch, inicie a app Apple Watch no iPhone, toque em "Geral" e, em seguida, toque em "Perfis"
+
+Em seguida, selecione "Perfil de registo do depurador do CloudKit", toque em "Remover perfil" e reinicie o dispositivo.
+
+Ao ativar a ferramenta de diagnóstico e enviar uma cópia dos ficheiros gerados para a Apple, estará a consentir que a mesma utilize os conteúdos dos ficheiros de acordo com a respetiva Política de privacidade (http://www.apple.com/legal/privacy/pt/). Perfil de informações confidenciais Apple. Não divulgar. As informações não podem ser utilizadas nem divulgadas sem a permissão da Apple. Copyright © 2018, Apple Inc. Todos os direitos reservados</string>
+		<key>pt-BR</key>
+		<string>O perfil de Registro de Depuração do CloudKit gera arquivos que permitem que a Apple solucione problemas com o seu dispositivo e que a ajudam a melhorar seus produtos e serviços. Os arquivos gerados podem conter informações pessoais, incluindo os nomes completos dos caminhos de seus documentos armazenados, metadados de fotos, seu nome de usuário do iCloud e os nomes dos computadores registrados em sua conta do iCloud. O perfil expirará após 14 dias. Você também poderá visualizar os arquivos de registro no seu computador antes de enviá-los para a Apple.
+
+Você poderá ativar e desativar o registro a qualquer momento enquanto o perfil estiver instalado. Para desativar o registro no dispositivo iOS ou na Apple TV, abra os Ajustes, toque em Geral e depois em Perfis. Para desativar o registro no Mac, escolha  &gt; Preferências do Sistema e clique no painel de preferências Perfis. Para desativar o registro no Apple Watch, inicie o app Apple Watch no iPhone, toque em Geral e depois em Perfis.
+
+Depois, selecione "Registro de Depuração do CloudKit", toque em Remover Perfil e reinicie o dispositivo.
+
+Ao ativar a ferramenta de diagnóstico e enviar uma cópia dos arquivos gerados para a Apple, você autoriza a Apple a usar o conteúdo desses arquivos de acordo com sua política de privacidade (http://www.apple.com/legal/privacy/br/). Perfil Confidencial da Apple. Distribuição proibida. Não deve ser usado nem divulgado sem a permissão da Apple. Copyright © 2018 Apple Inc. Todos os direitos reservados</string>
+		<key>ro</key>
+		<string>Profilul de înregistrare în jurnal a depanării CloudKit generează fișiere care permit Apple să depaneze problemele legate de dispozitivul tău și care ajută Apple să-și îmbunătățească produsele și serviciile. Fișierele generate pot conține o parte din informațiile tale personale, inclusiv numele complete ale căilor către documentele stocate, metadatele pozelor, numele de utilizator iCloud și numele computerelor înregistrate în contul iCloud. Profilul va expira după 14 zile. De asemenea, vei putea vedea fișierele jurnal pe computer înainte de a le trimite către Apple.
+
+Vei putea să activezi și să dezactivezi înregistrarea în jurnal oricând în timp ce profilul este instalat. Pentru a dezactiva înregistrarea în jurnal pe dispozitivul tău iOS sau Apple TV, deschide Configurări, atinge „General”, apoi „Profiluri”. Pentru a dezactiva înregistrarea în jurnal pe computerul tău Mac, alege  &gt; Preferințe sistem și fă clic pe Panou de preferințe profiluri. Pentru a dezactiva înregistrarea în jurnal pe dispozitivul tău Apple Watch, lansează aplicația Apple Watch pe dispozitivul tău iPhone, atinge „General”, apoi „Profiles”
+
+Apoi selectează „Înregistrare în jurnal depanare CloudKit”, atinge „Eliminați profilul” și repornește dispozitivul.
+
+Prin activarea acestui instrument de diagnosticare și trimiterea unei copii a fișierelor generate către Apple, consimți utilizarea de către Apple a conținutului acestor fișiere în conformitate cu politica sa de confidențialitate (http://www.apple.com/legal/privacy/ro/). Profil confidențial Apple. A nu se distribui. A nu se utiliza sau divulga fără permisiune de la Apple. Copyright © 2018 Apple Inc. Toate drepturile rezervate
+       </string>
+		<key>ru</key>
+		<string>Профиль журнала отладки CloudKit генерирует файлы, которые позволяют специалистам Apple находить и устранять неполадки устройства, а также помогают компании Apple улучшать продукты и услуги. Генерируемые файлы могут содержать некоторые персональные данные, включая полный путь к сохраненным документам, метаданные фотографий, ваше имя пользователя iCloud и имена компьютеров, зарегистрированных в учетной записи iCloud. Срок действия профиля истекает через 14 дней. Кроме того, файлы журнала можно просмотреть на компьютере перед их отправкой в компанию Apple.
+
+Пока профиль установлен, вы сможете в любой момент включить или отключить возможность входа в систему. Чтобы отключить возможность входа в систему на устройстве iOS или Apple TV, перейдите в меню «Настройки», выберите раздел «Основные», а затем — «Профили». Чтобы отключить возможность входа в систему на компьютере Mac, перейдите в меню  &gt; «Системные настройки», а затем — на панель параметров профилей. Чтобы отключить возможность входа в систему на часах Apple Watch, запустите программу Apple Watch на iPhone, перейдите в раздел «Основные» и выберите пункт «Профили».
+
+Затем выберите вариант «Журнал отладки CloudKit», нажмите «Удалить профиль» и перезагрузите устройство.
+
+Включая этот инструмент диагностики и отправляя копию созданных файлов в компанию Apple, вы разрешаете ей использовать содержимое этих файлов в соответствии с ее политикой конфиденциальности (http://www.apple.com/legal/privacy/ru). Профиль конфиденциальной информации компании Apple. Не распространять. Подлежит использованию или раскрытию только с разрешения компании Apple. © Apple Inc., 2018 г. Все права защищены.</string>
+		<key>sk</key>
+		<string>Profil CloudKit Debug Logging Profile (Profil protokolovania ladenia súpravy CloudKit) vytvára súbory, ktoré spoločnosti Apple umožňujú riešiť problémy s vaším zariadením a pomáhajú jej vylepšovať jej produkty a služby. Vytvorené súbory môžu obsahovať vaše osobné informácie vrátane úplných názvov ciest vašich uložených dokumentov, metadát fotiek, vášho používateľského mena služby iCloud a názvov počítačov zaregistrovaných vo vašom účte služby iCloud. Platnosť profilu uplynie po 14 dňoch. Protokolové súbory uložené v počítači si pred ich odoslaním spoločnosti Apple budete môcť prezrieť.
+
+Keď je tento profil nainštalovaný, môžete protokolovanie kedykoľvek zapnúť alebo vypnúť. Ak chcete protokolovanie vypnúť na zariadení so systémom iOS alebo Apple TV, otvorte Nastavenia, klepnite na položku Všeobecné a potom klepnite na položku Profily. Ak chcete protokolovanie vypnúť na Macu, vyberte menu  &gt; Systémové nastavenia a kliknite na panel nastavení Profily. Ak chcete protokolovanie vypnúť na hodinkách Apple Watch, spustite aplikáciu Apple Watch na iPhone, klepnite na položku Všeobecné a potom klepnite na položku Profily.
+
+Vyberte profil CloudKit Debug Logging, klepnite na položku Odstrániť profil a reštartujte zariadenie.
+
+Zapnutím tohto diagnostického nástroja a odoslaním kópie vytvorených súborov spoločnosti Apple vyjadrujete svoj súhlas s používaním obsahu takýchto súborov spoločnosťou Apple v súlade s jej zásadami ochrany osobných údajov (http://www.apple.com/legal/privacy/sk/). Dôverný profil spoločnosti Apple. Nie je určený na distribúciu. Bez povolenia spoločnosti Apple sa nesmie používať ani zverejňovať. Copyright © 2018 Apple Inc. Všetky práva vyhradené.</string>
+		<key>sv</key>
+		<string>Profilen CloudKit-felsökningsloggning genererar filer som hjälper Apple att felsöka problem med din enhet och förbättra Apples produkter och tjänster. De genererade filerna kan innehålla viss personlig information, däribland fullständiga sökvägsnamn för lagrade dokument, metadata för bilder, ditt iCloud-användarnamn och namnen på de datorer som registrerats med ditt iCloud-konto. Profilen löper ut om 14 dagar. Du kan också granska loggfilerna på datorn innan du skickar dem till Apple.
+
+Du kommer att kunna slå på och stänga av loggning så länge som profilen är installerad. Du kan stänga av loggning på din iOS-enhet eller Apple TV genom att öppna Inställningar, trycka på Allmänt och sedan trycka på Profiler. Du kan stänga av loggning på din Mac genom att välja  &gt; Systeminställningar och sedan klicka på profilens inställningspanel. Om du vill stänga av loggning på din Apple Watch startar du Apple Watch-appen på din iPhone, trycker på Allmänt och trycker sedan på Profiler.
+
+Sedan väljer du CloudKit-felsökningsloggning, trycker på Ta bort profil och startar sedan om enheten.
+
+Genom att aktivera detta diagnostikverktyg och skicka en kopia av de genererade filerna till Apple accepterar du att Apple använder innehållet i dessa filer i enlighet med sin integritetspolicy (http://www.apple.com/legal/privacy/se). Konfidentiell Apple-profil. Får ej spridas. Får inte användas eller lämnas ut utan tillstånd från Apple. Copyright © 2018 Apple Inc. Alla rättigheter förbehålls</string>
+		<key>th</key>
+		<string>โปรไฟล์การบันทึกแก้จุดบกพร่อง CloudKit สร้างไฟล์ซึ่งทำให้ Apple สามารถแก้ไขปัญหาที่เกิดขึ้นกับอุปกรณ์ของคุณ และช่วย Apple ในการปรับปรุงผลิตภัณฑ์และบริการให้ดียิ่งขึ้น ไฟล์ที่สร้างขึ้นอาจประกอบด้วยข้อมูลส่วนตัวบางส่วนของคุณ รวมถึงชื่อพาธแบบเต็มสำหรับเอกสารที่จัดเก็บไว้ของคุณ เมตาดาต้าสำหรับภาพถ่าย ชื่อผู้ใช้ iCloud ของคุณ และชื่อคอมพิวเตอร์ที่ลงทะเบียนไว้ในบัญชี iCloud ของคุณ โปรไฟล์นี้จะหมดอายุหลังจาก 14 วัน คุณยังสามารถตรวจทานไฟล์บันทึกข้อมูลบนคอมพิวเตอร์ของคุณก่อนส่งให้แก่ Apple
+
+คุณจะสามารถเปิดและปิดการบันทึกได้ตลอดเวลาเมื่อคุณติดตั้งโปรไฟล์แล้ว หากต้องการปิดการบันทึกในอุปกรณ์ iOS หรือ Apple TV ของคุณ ให้เปิดการตั้งค่า แตะ "ทั่วไป" แล้วแตะ "โปรไฟล์" หากต้องการปิดการบันทึกใน Mac ให้เลือก  &gt; การตั้งค่าระบบ แล้วคลิกที่บานหน้าต่างตั้งค่าโปรไฟล์ หากต้องการปิดการบันทึกใน Apple Watch ให้เปิดใช้งานแอพ Apple Watch ใน iPhone ของคุณ แตะ "ทั่วไป" จากนั้นแตะ "โปรไฟล์"
+
+จากนั้นเลือก "การบันทึกแก้จุดบกพร่องสำหรับ CloudKit" แตะ "เอาโปรไฟล์ออก" แล้วรีสตาร์ทอุปกรณ์
+
+การเปิดใช้งานเครื่องมือการวินิจฉัยนี้และการส่งสำเนาของไฟล์ที่สร้างขึ้นให้กับ Apple ถือว่าคุณยินยอมให้ Apple ใช้เนื้อหาของไฟล์เหล่านี้ตามนโยบายความเป็นส่วนตัว (http://www.apple.com/legal/privacy/th/) โปรไฟล์ข้อมูลที่เป็นความลับของ Apple ห้ามเผยแพร่ ห้ามใช้หรือเปิดเผยโดยไม่ได้รับอนุญาตจาก Apple Copyright © 2018 Apple Inc. สงวนลิขสิทธิ์</string>
+		<key>tr</key>
+		<string>CloudKit Hata Ayıklama Günlüğü Profili, Apple'ın aygıtınızla ilgili sorunları gidermesini sağlayan ve Apple'ın ürün ve hizmetlerini geliştirmesine yardımcı olan dosyalar oluşturur. Oluşturulan dosyalar; saklanan belgelerinizin tam yol adları, fotoğraf meta verileri, iCloud kullanıcı adınız ve iCloud hesabınızla kaydedilen bilgisayarların adları dahil bazı kişisel bilgilerinizi içerebilir. Profilin süresi 14 gün sonra dolar. Ayrıca bilgisayarınızdaki günlük dosyalarını Apple'a göndermeden önce gözden geçirebilirsiniz.
+
+Profil yüklüyken günlük tutmayı dilediğiniz zaman açıp kapatabilirsiniz. iOS aygıtınızda veya Apple TV'nizde günlük tutmayı kapatmak için Ayarlar'ı açın, "Genel"e ve "Profiller"e dokunun. Mac'inizde günlük tutmayı kapatmak için  &gt; Sistem Tercihleri'ni seçin ve Profiller Tercih Bölümünü tıklayın. Apple Watch'unuzda günlük tutmayı kapatmak için iPhone'unuzdaki Apple Watch uygulamasını başlatın, "Genel"e ve "Profiller"e dokunun
+
+Ardından, "CloudKit Hata Ayıklama Günlüğü"nü seçin, "Profili Sil"e dokunun ve aygıtı yeniden başlatın.
+
+Bu tanılama aracını etkinleştirerek ve oluşturulan dosyaların bir kopyasını Apple'a göndererek Apple'ın bu dosyaların içeriğini gizlilik politikasına (https://www.apple.com/legal/privacy/tr/) uygun şekilde kullanacağını kabul edersiniz. Apple Gizli Profili. Dağıtımı yapılamaz. Apple'ın izni olmadan kullanılamaz veya üçüncü taraflara açıklanamaz. Copyright © 2018 Apple Inc. Tüm hakları saklıdır</string>
+		<key>zh-Hans</key>
+		<string>CloudKit 调试记录描述文件生成的文件可让 Apple 对您的设备出现的问题进行故障诊断，并可帮助 Apple 改善其产品和服务。生成的文件可能包含您的一些个人信息，其中包括您所储存文稿的完整路径名称、照片元数据、您的 iCloud 用户名以及已注册到您 iCloud 帐户名下的电脑的名称。这个描述文件会在 14 天后失效。在将日志文件发送给 Apple 之前，您还能在电脑上查看这些日志文件。
+
+装好这个描述文件后，您可以随时打开和关闭日志记录功能。要在 iOS 设备或 Apple TV 上关闭日志记录功能，请打开“设置”，轻点“通用”，然后轻点“描述文件”。要在 Mac 上关闭日志记录功能，请选取  &gt;“系统偏好设置”，然后点按“描述文件”偏好设置面板。要在 Apple Watch 上关闭日志记录功能，请在 iPhone 上启动 Apple Watch 应用，轻点“通用”，然后轻点“描述文件”。
+
+然后选择“CloudKit 调试记录”，轻点“移除描述文件”并重新启动设备。
+
+启用这款诊断工具并向 Apple 发送所生成文件的副本，即表示您同意 Apple 依照其隐私政策 (http://www.apple.com/legal/privacy/szh) 使用这类文件的内容。Apple 机密描述文件。请勿传阅。未经 Apple 同意，不得使用或披露。Copyright © 2018, Apple Inc. 保留所有权利</string>
+		<key>zh-Hant</key>
+		<string>「CloudKit 除錯記錄功能描述檔」產生的檔案可讓 Apple 進行裝置問題故障診斷，並協助 Apple 改進其產品和服務。所產生的檔案可能包含您的部分個人資訊，包括已儲存文件的完整路徑名稱、照片元資料、iCloud 使用者名稱，以及使用您的 iCloud 帳號註冊的電腦名稱。此描述檔將於 14 天後到期。您也可以先在電腦上檢閱記錄檔，再傳送給 Apple。
+
+安裝此描述檔後，您可以隨時開啟及關閉記錄功能。若要在 iOS 裝置或 Apple TV 上關閉記錄功能，請開啟「設定」，點一下「一般」，再點一下「描述檔」。若要在 Mac 上關閉記錄功能，請選擇  &gt;「系統偏好設定」，再按一下「描述檔」偏好設定面板。若要在 Apple Watch 上關閉記錄功能，請在 iPhone 上啟動 Apple Watch app，點一下「一般」，再點一下「描述檔」。
+
+然後選取「CloudKit 除錯記錄功能」，點一下「移除描述檔」，再重新啟動裝置。
+
+根據 Apple 的隱私權政策（https://www.apple.com/legal/privacy/tzh/），啟用此診斷工具並將所產生的檔案拷貝傳送給 Apple，即代表您同意 Apple 使用這類檔案的內容。Apple 機密資訊描述檔。請勿散佈。未經 Apple 許可，不得使用或揭露。Copyright © 2018 Apple Inc. 保留一切權利。</string>
+	</dict>
+	<key>DurationUntilRemoval</key>
+	<real>1209600</real>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>LoggingPayload</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>0C2726D1-7792-4B6E-9A90-25DF94A122A4</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Subsystems</key>
+			<dict>
+				<key>Prequelite</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Default</string>
+							<key>Persist</key>
+							<string>Default</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.cloudkit</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Enable-Oversize-Messages</key>
+						<true/>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.mmcs</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Debug</string>
+							<key>Persist</key>
+							<string>Debug</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+						</dict>
+					</dict>
+				</dict>
+				<key>com.apple.prequelite</key>
+				<dict>
+					<key>DEFAULT-OPTIONS</key>
+					<dict>
+						<key>Default-Privacy-Setting</key>
+						<string>Public</string>
+						<key>Level</key>
+						<dict>
+							<key>Enable</key>
+							<string>Default</string>
+							<key>Persist</key>
+							<string>Default</string>
+						</dict>
+						<key>TTL</key>
+						<dict>
+							<key>Default</key>
+							<integer>14</integer>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables CloudKit debug logging.</string>
+	<key>PayloadDisplayName</key>
+	<string>CloudKit Debug Logging</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.cloudkit.debug</string>
+	<key>PayloadOrganization</key>
+	<string>Apple Inc.</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>AA7A3954-5AA4-4609-8E04-CEF59DA937A2</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2019-10-29T00:00:00Z</date>
+</dict>
+</plist>��	s0�0� ���e�J�i0	*�H�� 0b10	UUS10U
+
+Apple Inc.1&0$UApple Certification Authority10UApple Root CA0130524174337Z280524174337Z0��1@0>U7Apple Application Integration 2 Certification Authority1&0$UApple Certification Authority10U
+
+Apple Inc.10	UUS0�"0	*�H�� � 0�
+� �H�glV��p�F����:ޡ�٨6<b�|�G�k����t�5�XOtأ��-�s%YԖ�&ϝ'�T�ܒ��3b�ȹ�6�j���m��-��}�)��������gi<�D($��,5ֱ %�P��%��Oo[��*��l^�9.��m;�9q?��W�# O��^��X����ײ~�e���<��n�V��
+�Kɢ��1���5lÀ^Pc���m\��&�Jޛ��Zo��k����2��.B��xZ� ���0��0U��|!`��={�:2�iߞl�0U�0�0U#0�+�iG�v	��k�.@��GM^0.U'0%0#�!��http://crl.apple.com/root.crl0U�0
+*�H��cd 0	*�H�� � �͍��]����I�ݳ3����!����گ	"�`<YB�-��?��*��jx�.�;L�eC�Ϩ�=7�E/J���k���g���؆qw��௤�(�?4ye6�TAq�!�PUEΎ���Uг�(Q�sQ�y�n��7	a1/�Ѻ��\7�����RB����`"`|��?�����'c�bV��%�̈���T�y聅8@¹�Mb�+�)�g���rw���+Q��S��	��迡&���7�@0�S0�;�X�]�&b��0	*�H�� 0��1@0>U7Apple Application Integration 2 Certification Authority1&0$UApple Certification Authority10U
+
+Apple Inc.10	UUS0180402230040Z210401230040Z0s1.0,U%AppleCare Profile Signing Certificate10UConfiguration Profiles10U
+
+Apple Inc.10	UUS0�"0	*�H�� � 0�
+� �t�Z�0�D�W���
+�}�����gHv�z��~�W�����ꉖ�[���
+������</�b�)W�U�8�2ԫ�ns�'�ٺ5�߶�-,��ߙ�@?Eb�7Z��t��J̢/dxϓ�*[�.�a�Z�W��kgq­h^#�8gF�Mbĕ1](�0W	>z�|��F\�M~�(����!M,-:�'���o��۪��H���nJ]Sؚ�E�������d��Kc
+?jź�?����6�nr
+]��Ύ@�	2 ���0��0@+40200+0�$http://ocsp.apple.com/ocsp04-aaica020UxLziE'g�N�ܴ��
+�BX%0U�0 0U#0���|!`��={�:2�iߞl�0�U �0�0��	*�H��cd0��0(+http://www.apple.com/appleca0��+0����Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0U��0U%�0	*�H��cd0	*�H�� � ��"�ѯ�2V��� �L�b^�qd�l�h����ĬA�6��ɼ��ɲ�MI���B�Ň{QV�R
+� �j[�S��{tݷ�[Y7��L8�ʎsh�'*� �B�X����|�|1)�Y��V�Fr T�g���fj/��QpG��6N���w��ywN_H�k��l�$��I���������o�s͌����^�Q!�6`mA��
+J��M�OA#B5`�&ha9Q�* ��U���ÀR�}v.�a̠�Q� 1�?0�;�xLziE'g�N�ܴ��
+�BX%0	`�He0	*�H�� � lj�������{�Qz5���^E7������A��e���.ׇs���meB�.7���	�+�U6&"��V�67�Zu�Ҩt��8�!�s���ߢ����T}z��3��X6I�H�@w�!����l�h�yU�d�b&/�&-�Ş�iGϰ��H;"���^P���<az�{���G��v��X&-{�\�p�k�O.n��u�>������*
+Y��ٴ�T�Y�W�5ߐ*Of���p���~i/%�Q0)%��S )���

@@ -1,0 +1,398 @@
+0ÇGˇ	*ÜHÜ˜†ÇG0ÇGÏ10	`ÜHe0Ç=	*ÜHÜ˜†Ç=Ç=	<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    
+    <key>PayloadIdentifier</key>
+    <string>com.apple.mapslogging</string>
+    <key>PayloadUUID</key>
+    <string>7F480677-F8C7-48C2-9214-99C27250C79C</string>
+
+    <key>PayloadDisplayName</key>
+    <string>Enable Maps Logging Profile</string>
+    <key>PayloadDescription</key>
+    <string>This profile enables additional logging for Apple Maps.</string>
+    <key>PayloadOrganization</key>
+    <string>Apple Inc.</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadVersion</key>
+    <integer>2</integer>
+
+    <key>PayloadRebootSuggested</key>
+    <false/>
+
+    <key>RemovalDate</key>
+    <date>2019-12-31T01:00:00Z</date>
+
+    <key>DurationUntilRemoval</key>
+    <integer>1209600</integer>
+
+    <key>ConsentText</key>
+    <dict>
+      <key>default</key>
+      <string>Apple Confidential Profile. Do not distribute.  Not to be used or disclosed without permission from Apple.  Copyright ¬© 2019, Apple Inc. All rights reserved. The Enable Maps Logging Profile generates files that allow Apple to troubleshoot issues with the loading of Maps on your iOS device or Apple Watch. The generated files include information, including location, regarding your interaction with Maps such as Maps-related search queries and results, data about Maps images loading, and information related to when you report an issue in Maps. If your iPhone is paired with an Apple Watch, the generated files will also include Apple Watch connectivity data. The profile will expire after 14 days.
+
+You will be able to turn on and off logging at any time while the Profile is installed, and will be able to review the log files on your computer prior to sending them to Apple. To turn off logging on your iOS device, open Settings, tap General, tap "Profiles &amp; Device Management", tap "Enable Maps Logging" Profile and tap "Delete Profile." To turn off logging on your Apple Watch, open the "Apple Watch" app on your iPhone, tap "General," tap on "Profiles," tap the "Enable Maps Logging" Profile and tap "Delete Profile."
+
+By enabling this diagnostic tool and sending a copy of the generated files to Apple, you are consenting to Apple's use of the content of such files in accordance with its privacy policy (http://www.apple.com/legal/privacy).</string>
+    </dict>
+
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadUUID</key>
+            <string>00A34583-A941-43BF-B620-6F179435ED1E</string>
+
+            <key>PayloadIdentifier</key>
+            <string>com.apple.defaults.1</string>
+            <key>PayloadType</key>
+            <string>com.apple.defaults.managed</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>PayloadContent</key>
+            <array>
+                    <dict>
+                        <key>DefaultsDomainName</key>
+                        <string>com.apple.GEO</string>
+                        <key>DefaultsData</key>
+                        <dict>
+                            <key>LogLevel.AddressCorrection</key>
+                            <integer>7</integer>
+                            <key>LogLevel.Directions</key>
+                            <integer>7</integer>
+                            <key>LogLevel.BatchReverseGeocode</key>
+                            <integer>7</integer>
+                            <key>LogLevel.ProblemNotificationAvailability</key>
+                            <integer>7</integer>
+                            <key>LogLevel.ProblemStatus</key>
+                            <integer>7</integer>
+                            <key>LogLevel.ProblemOptIn</key>
+                            <integer>7</integer>
+                            <key>LogLevel.LocationShift</key>
+                            <integer>7</integer>
+                            <key>LogLevel.Autocomplete</key>
+                            <integer>7</integer>
+                            <key>LogLevel.MapMatch</key>
+                            <integer>7</integer>
+                            <key>LogLevel.ETA</key>
+                            <integer>7</integer>
+                            <key>LogLevel.ProblemSubmission</key>
+                            <integer>7</integer>
+                            <key>LogLevel.ExperimentRequest</key>
+                            <integer>7</integer>
+                            <key>LogLevel.Usage</key>
+                            <integer>7</integer>
+                            <key>LogLevel.SimpleETA</key>
+                            <integer>7</integer>
+                            <key>LogLevel.PlaceDataLookup</key>
+                            <integer>7</integer>
+                            <key>LogLevel.ResourceManifest</key>
+                            <integer>7</integer>
+                            <key>LogLevel.DeviceConnection</key>
+                            <integer>6</integer>
+                            <key>LogLevel.BusinessPortalBaseURL</key>
+                            <integer>7</integer>
+                            <key>LogLevel.LogMessageUsageURL</key>
+                            <integer>7</integer>
+                        </dict>
+                    </dict>
+            </array>
+        </dict>
+    </array>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadDisplayName</key>
+            <string>Apple Maps Logging Profile</string>
+            <key>PayloadIdentifier</key>
+            <string>LoggingPayload</string>
+            <key>PayloadType</key>
+            <string>com.apple.system.logging</string>
+            <key>PayloadUUID</key>
+            <string>2cb17420-1f7a-012e-6679-442c03067622</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>Subsystems</key>
+            <dict>
+                <key>com.apple.GeoServices</key>
+                <dict>
+                    <key>DEFAULT-OPTIONS</key>
+                    <dict>
+                        <key>Default-Privacy-Setting</key>
+                        <string>Public</string>
+                        <key>Enable-Private-Data</key>
+                        <true/>
+                    </dict>
+                    <key>ResourceManifest</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>DeviceConnection</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>TransitWidget</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>MapsSupport</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>MapsSupportJournal</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>MSPUpNext</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>MapsLaunch</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>BackgroundState</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>MapsActivity</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>MapsDefault</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>MapsAppDelegate</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                </dict>
+                <key>com.apple.Maps.RequestResponse</key>
+                <dict>
+                    <key>DEFAULT-OPTIONS</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Persist</key>
+                            <string>Debug</string>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                        <key>Default-Privacy-Setting</key>
+                        <string>Public</string>
+                        <key>Enable-Private-Data</key>
+                        <true/>
+                        <key>Enable-Oversize-Messages</key>
+                        <true/>
+                        <key>TTL</key>
+                        <dict>
+                            <key>Debug</key>
+                            <integer>5</integer>
+                        </dict>
+                    </dict>
+                    <key>GEORequest</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Persist</key>
+                            <string>Debug</string>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>AddressCorrection</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>Autocomplete</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>BatchReverseGeocode</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>BusinessPortalBaseURL</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>Directions</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>ETA</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>ExperimentRequest</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>LocationShift</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>LogMessageUsageURL</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>PlaceDataLookup</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>ProblemOptIn</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>ProblemSubmission</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>ProblemStatus</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>SimpleETA</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                    <key>SpatialLookup</key>
+                    <dict>
+                        <key>Level</key>
+                        <dict>
+                            <key>Enable</key>
+                            <string>Debug</string>
+                        </dict>
+                    </dict>
+                </dict>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
+†Ç	s0Ç0Ç †π˚eëJòi0	*ÜHÜ˜ 0b10	UUS10U
+
+Apple Inc.1&0$UApple Certification Authority10UApple Root CA0130524174337Z280524174337Z0Åå1@0>U7Apple Application Integration 2 Certification Authority1&0$UApple Certification Authority10U
+
+Apple Inc.10	UUS0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ∏H°glVùÂp≈FÙØÖ„Ω:ﬁ°ÁŸ®6<b•|†G≥kÅ¨˛ÿtÊ5∞XOtÿ£˛Ì-Ó§s%Y‘ñ‹&œù'ãTú‹í±‡3bô»πØ6§jÅëßm››-ÃÅ}Ã)â£…ô™¢ÏŸgi<øD($±ƒ,5÷± %ÔPß€%∆√Oo[áæ*Òìß‘l^≤9.©·m;Æ9q?ÛπÙWù# OôÉ^üXæµ—Ï◊≤~¬e‚ÒÏ<¶¸n€V≥Ó
+≤K…¢Ò1ˆÆﬁ5l√Ä^Pcê∂∫m\¿„ü&ÉJﬁõ©∞Zo˚õkÅÏ›ﬂ2ﬁ¸.B¢ xZ◊ £Å¶0Å£0U˜æ|!`ë€={ÿ:2Åiﬂûlõ0Uˇ0ˇ0U#0Ä+–iGîv	˛Ùkç.@¶˜GM^0.U'0%0#†!†Ühttp://crl.apple.com/root.crl0Uˇ0
+*ÜHÜ˜cd 0	*ÜHÜ˜ Ç ïÕç˝§]ıÒ¿áIá›≥3ì≠Ñ–!ì„Ÿ÷⁄Ø	"Ç`<YBÒ-ì∂?ˇÙ*ÙÓjx¡.˚;LÆeCÀœ®Î=7êE/Jç®àk‚ö€Ôg∏Ò‰ÿÜqw”Ûâ‡Ø§Í(§?4ye6ÉTAq◊!‹PUEŒéº˜‹U–≥ (Q¨sQ¨yãní†7	a1/°—∫Î·\7¿ÿ—Á‡RB§îãˆ`"`|†¿?¡ïÖ’¬'c∞bVôÌ%ÙÃàôô‹T∑yËÅÖ8@¬πÌMb‘+ˆ)Òg°·çrwˆ†î+QàÑSÚÛí	ÑÛËø°&œ¸í7ª@0ÇS0Ç;†X‚]Õ&b†Â0	*ÜHÜ˜ 0Åå1@0>U7Apple Application Integration 2 Certification Authority1&0$UApple Certification Authority10U
+
+Apple Inc.10	UUS0180402230040Z210401230040Z0s1.0,U%AppleCare Profile Signing Certificate10UConfiguration Profiles10U
+
+Apple Inc.10	UUS0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ºtÌZ‡0≤DøW‚Ê’
+ƒ}ôŸîégHv†zÁ›~–Wäˇ∞í‚Íâñ≥[Üîß
+î∞ßÉÿ</Ëbê)W–U˙8‹2‘´Òns‹'°Ÿ∫5∏ﬂ∂ -,ô⁄ﬂô◊@?Eb‡7ZÌ’t˙ˇJÃ¢/dxœì‘*[ç.ÏaÆZÒW˙°kgq¬≠h^#”8gFãMbƒï1](—0W	>zº|“„F\ƒM~œ(ı‘Ä¢!M,-:≤'ˇå∂o¬Ò€™§õHôﬁ–nJ]Sÿö‹E£îªîı¸Ñd√ÍKc
+?j≈∫≥?˛˛Ê‹6∆nr
+]¿∫Œé@Õ	2 £Çœ0ÇÀ0@+40200+0Ü$http://ocsp.apple.com/ocsp04-aaica020UxLziE'gúN≤‹¥∂∑
+∆BX%0Uˇ0 0U#0Ä˜æ|!`ë€={ÿ:2Åiﬂûlõ0ÇU Ç0Ç0Å˛	*ÜHÜ˜cd0Å0(+http://www.apple.com/appleca0Å√+0Å∂Å≥Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0UˇÄ0U%ˇ0	*ÜHÜ˜cd0	*ÜHÜ˜ Ç àÖ"ó—Ø†2V‚Ωë» ÉLΩb^ƒqdèlÍìh»Ú˚ûƒ¨A¡6àï…º≤Î…≤ÅMIÉö™BÒ≈á{QVÔR
+Ò≥ ôj[ÒS…¸{t›∑ò[Y7¥·L8≠ ésh—'*ô öB≈X≥àﬂ¸|Í|1)õYè∆VÈFr TÖg≠ìïfj/É»QpGÁ˘6N•ΩæwÀ‹ywN_H›kπ˚lÍ$è¿IáÙƒÎŒé≥Ç™oısÕåˇ˚É¸^ÙQ!“6`mAı´
+JØàMöOA#B5`„&ha9Q˚* Ï…U‰ªÊ√ÄRﬂ}v.ÛaÃ†ÄQÄ 1Ç?0Ç;†xLziE'gúN≤‹¥∂∑
+∆BX%0	`ÜHe0	*ÜHÜ˜ Ç ˚]æoÁ"Ü∏ıtÈr©·á.ÚâﬂTé)œ˘P~¿ùEö'ì4è‘≈π…`ka÷É,À«{ÄﬂCóŒ,†rY971’¿ôì$ó
+s!®
+ôÕÁˇËˇ|ÌÚ{ü≤ï≈
+ÏÒpH“¬E´›Ølz∏ˆ];UÀƒΩ@+E‡ÉU	&ù•3$£l˝|∏ÑîÎ|Ú€Kwﬂ{Ôﬂ+©‘⁄ÜòyDhjÒ∂0ã=ÌÜ≤N∆¯ê*g	›ï¿k)≈ÒIƒ¡ü	û/C(„ñ«´•v—π8fÖ±ıMè∆8[qd•7ßÕN=´myêÛÆ#ù/4<£@/R3|éy‰Ã
