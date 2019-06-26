@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>****WARNING****
+
+THIS PROFILE WILL NOT BE ABLE TO BE REMOVED ONCE IT IS INSTALLED. </string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<array>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>LockIcons</key>
+						<false/>
+						<key>StoreDemoMode</key>
+						<true/>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>com.apple.demo-settings</string>
+				</dict>
+			</array>
+			<key>PayloadIdentifier</key>
+			<string>6c6e411b-b43c-4567-94f4-8d86daeb5436</string>
+			<key>PayloadType</key>
+			<string>com.apple.defaults.managed</string>
+			<key>PayloadUUID</key>
+			<string>6c6e411b-b43c-4567-94f4-8d86daeb5436</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Configures Demo Settings</string>
+	<key>PayloadDisplayName</key>
+	<string>Demo Configuration</string>
+	<key>PayloadIdentifier</key>
+	<string>com.code4ios.DemoMode</string>
+	<key>PayloadOrganization</key>
+	<string>BetaStore Inc.</string>
+	<key>PayloadRebootSuggested</key>
+	<true/>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>6c6e411b-b43c-4567-94f4-8d86daeb5436</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>1</integer>
+</dict>
+</plist>
