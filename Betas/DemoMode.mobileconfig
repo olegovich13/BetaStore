@@ -41,7 +41,7 @@ THIS PROFILE WILL NOT BE ABLE TO BE REMOVED ONCE IT IS INSTALLED. </string>
 	<key>PayloadDisplayName</key>
 	<string>Demo Configuration</string>
 	<key>PayloadIdentifier</key>
-	<string>com.code4ios.DemoMode</string>
+	<string>com.BetaStore.demo</string>
 	<key>PayloadOrganization</key>
 	<string>BetaStore Inc.</string>
 	<key>PayloadRebootSuggested</key>
